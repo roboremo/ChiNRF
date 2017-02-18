@@ -1,0 +1,10 @@
+Installing the ChiNRF library:
+
+- open the directory where you have Arduino installed
+- find the directory "libraries" and open it
+- create a new directory, name it "ChiNRF" and open it
+- paste here the files "ChiNRF.cpp" and "ChiNRF.h"
+- restart Arduino IDE
+
+- enjoy
+- you can find more interesting projects on www.roboremo.com/projects.html
