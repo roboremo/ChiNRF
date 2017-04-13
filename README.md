@@ -18,7 +18,7 @@ Tested only with 5-Byte address.
 There are still many things to test.  
 
 ## Credits:
-Big thanks to the guys from www.deviationtx.com/forum for revealing the scrambling algorythm of the XN297.  
+Big thanks to the guys from www.deviationtx.com/forum for revealing the scrambling algorithm of the XN297.  
 https://www.deviationtx.com/forum/protocol-development/3368-jd-395-cx-10?screenMode=none&start=180  
   
 ## Things used for developing this library:
